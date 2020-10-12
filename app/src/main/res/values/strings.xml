@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UserInteraction</string>
+    <string-array name="Labels">
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+        <item>Moblie</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>
